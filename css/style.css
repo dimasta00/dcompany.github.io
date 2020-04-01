@@ -431,13 +431,13 @@ input:-webkit-autofill {
 /*------------------------ 2 Home ------------------------*/		
 
 .home{
-    background:url(../images/him.jpg) bottom center fixed;
+    background:url(../images/him.jpg) bottom center;
     width: 100%;
     display: table;
 }
 
 .diag .home{
-    background: url(../images/home-2.jpg) 50% 50% fixed;
+    background:url(../images/him.jpg) bottom center;
     background-size: cover;
 }
 
