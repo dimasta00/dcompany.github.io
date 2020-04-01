@@ -492,7 +492,7 @@ input:-webkit-autofill {
     color: #fff;
     font-size: 40px;
     padding-top: 40px;
-    padding-left: 20px;
+    padding-left: 0px;
     display: inline-block;
     transition: all 0.3s ease;
 }
